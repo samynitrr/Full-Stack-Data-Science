@@ -1,4 +1,4 @@
-#Q1. Write an SQL query to fetch "FIRST_NAME" from Worker table using the alias name as <WORKER_NAME>.
+--Q1. Write an SQL query to fetch "FIRST_NAME" from Worker table using the alias name as <WORKER_NAME>.
 
 select FIRST_NAME as WORKER_NAME from Worker;
 
