@@ -13,6 +13,6 @@ select distinct(DEPARTMENT) from Worker;
 
 
 #Q3. Write an SQL query to show the last 5 record from a table.
-Assumption: table1 has a column called id which is the primary key
+#Assumption: table1 has a column called id which is the primary key
 
 select * from table1 order by id desc limit 5;
